@@ -1,1 +1,1 @@
-# A web that can visualize the flexbox property which is justify-content
+# A website that can visualize the flexbox property which is justify-content
